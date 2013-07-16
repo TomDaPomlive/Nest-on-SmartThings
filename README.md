@@ -12,7 +12,7 @@ Please visit [Think Make Lab](http://thinkmakelab.com/2013/07/16/how-to-install-
 Collaboration
 -------------
 
-If you want to collaborate with this integration please contact me at juano23@gmail.com
+If you like to collaborate please contact me at juano23@gmail.com
 
 
 Acknowledgements
