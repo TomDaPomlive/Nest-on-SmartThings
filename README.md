@@ -1,12 +1,18 @@
-Nest Learning Thermostat on SmartThings:
+Nest Thermostat on SmartThings:
 =========================================
 
-This integration uses [gboudreau/nest-api](https://github.com/gboudreau/nest-api). A PHP class that will allow you to monitor and control your [Nest Learning Thermostat](http://www.nest.com/).
+This integration uses [gboudreau/nest-api](https://github.com/gboudreau/nest-api), a PHP class that will allow you to monitor and control your [Nest Learning Thermostat](http://www.nest.com/).
 
 Usage
 -----
 
 Please visit [Think Make Lab](http://thinkmakelab.com/2013/07/16/how-to-install-your-nest-thermostat-on-smartthings) for a complete guide.
+
+
+Collaboration
+-------------
+
+If you want to collaborate with this integration please contact me at juano23@gmail.com
 
 
 Acknowledgements
