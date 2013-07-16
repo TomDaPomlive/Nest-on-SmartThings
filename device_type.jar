@@ -8,7 +8,7 @@
 //Nest Login
 def nest() {
 	def user = "YOUR_EMAIL"
-	def password = "YOUR_PASSEWORD"
+	def password = "YOUR_PASSWORD"
 	return "user=$user&password=$password"
 } 
  
